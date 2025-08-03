@@ -20,6 +20,11 @@ header {
     padding: 0 0.5rem;
     max-width: 1200px;
 }
+.shLogo{
+    width: 40px;
+    height: 40px;
+
+}
 
 .navigation ul {
     display: flex;
